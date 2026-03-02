@@ -17,7 +17,7 @@
   <img src="unreal.png" alt="javascript" width="40" height="40"/>  
 </a>  
 <a href="https://www.lua.org" target="_blank" rel="noreferrer">  
-  <img src="lua.png" alt="typescript" width="40" height="40"/>  
+  <img src="Lua.png" alt="typescript" width="40" height="40"/>  
 </a>  
 
 <br><br>
