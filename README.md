@@ -2,7 +2,7 @@
 i'm playfull_dev or playfull 
 
 <h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
-<p align="center">i'm playfull_dev or playfull <br>i am 15 years old and i program for fun <i>(and money? please donate to me)</i><br><br>
+<p align="center">i'm playfull_dev or playfull <br>i am ?? years old and i do stuff for fun <i></i><br><br>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">  
   <img src="csharp.png" alt="java" width="40" height="40"/>  
@@ -14,10 +14,10 @@ i'm playfull_dev or playfull
   <img src="blender.png" alt="html5" width="40" height="40"/>  
 </a>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+  <img src="unreal.png" alt="javascript" width="40" height="40"/>  
 </a>  
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  
+  <img src="lua.png" alt="typescript" width="40" height="40"/>  
 </a>  
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
