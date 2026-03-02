@@ -1,5 +1,5 @@
 ## Hi there 👋
-i'm playfull_dev or playfull 
+
 
 <h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
 <p align="center">i'm playfull_dev or playfull <br>i am ?? years old and i do stuff for fun <i></i><br><br>
@@ -19,12 +19,7 @@ i'm playfull_dev or playfull
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
   <img src="lua.png" alt="typescript" width="40" height="40"/>  
 </a>  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>  
-</a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
-</a>  
+
 <br><br>
 <!--
 **playfull-dev/playfull-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
