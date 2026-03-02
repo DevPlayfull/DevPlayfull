@@ -8,7 +8,7 @@
   <img src="csharp.png" alt="java" width="40" height="40"/>  
 </a>  
 <a href="https://unity.com" target="_blank" rel="noreferrer">  
-  <img src="unity.png" alt="css3" width="40" height="40"/>  
+  <img src="unity.png" alt="css3" width="35" height="40"/>  
 </a>  
 <a href="https://www.blender.org" target="_blank" rel="noreferrer">  
   <img src="blender.png" alt="html5" width="40" height="40"/>  
