@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-<h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
+<h1 align="center"><img src="" width="40%"><br>ello!</h1>
 <p align="center">i'm playfull_dev or playfull <br>i am ?? years old and i do stuff for fun <i></i><br><br>
 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">  
