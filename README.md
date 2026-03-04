@@ -8,16 +8,16 @@
   <img src="csharp.png" alt="java" width="40" height="40"/>  
 </a>  
 <a href="https://unity.com" target="_blank" rel="noreferrer">  
-  <img src="unity.png" alt="css3" width="35" height="40"/>  
+  <img src="unity.png" alt="unity" width="35" height="40"/>  
 </a>  
 <a href="https://www.blender.org" target="_blank" rel="noreferrer">  
-  <img src="blender.png" alt="html5" width="40" height="40"/>  
+  <img src="blender.png" alt="blender" width="40" height="40"/>  
 </a>  
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">  
-  <img src="unreal.png" alt="javascript" width="40" height="40"/>  
+  <img src="unreal.png" alt="unreal" width="40" height="40"/>  
 </a>  
 <a href="https://www.lua.org" target="_blank" rel="noreferrer">  
-  <img src="Lua.png" alt="typescript" width="40" height="40"/>  
+  <img src="Lua.png" alt="lua" width="40" height="40"/>  
 </a>  
 
 <br><br>
