@@ -4,8 +4,8 @@
 <h1 align="center"><img src="profile.png" width="40%"><br>hello!</h1>
 <p align="center">i'm playfull_dev or playfull <br>i am ?? years old and i do stuff for fun <i></i><br><br>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">  
-  <img src="csharp.png" alt="java" width="40" height="40"/>  
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">  
+  <img src="csharp.png" alt="csharp" width="40" height="40"/>  
 </a>  
 <a href="https://unity.com" target="_blank" rel="noreferrer">  
   <img src="unity.png" alt="unity" width="35" height="40"/>  
