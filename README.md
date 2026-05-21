@@ -1,37 +1,55 @@
-## Hi there 👋
+# Hey, I'm Jake 👋
 
+> Building things that work, look good, and maybe spark a little joy.
 
-<h1 align="center"><img src="profile.png" width="40%"><br>hello!</h1>
-<p align="center">i'm playfull_dev or playfull <br>i am ?? years old and i do stuff for fun <i></i><br><br>
+I'm a developer who cares about the craft — clean code, thoughtful design, and shipping things that matter. Whether I'm deep in a side project or solving a hard problem at work, I bring the same energy to everything I build.
 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer">  
-  <img src="csharp.png" alt="csharp" width="40" height="40"/>  
-</a>  
-<a href="https://unity.com" target="_blank" rel="noreferrer">  
-  <img src="unity.png" alt="unity" width="35" height="40"/>  
-</a>  
-<a href="https://www.blender.org" target="_blank" rel="noreferrer">  
-  <img src="blender.png" alt="blender" width="40" height="40"/>  
-</a>  
-<a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">  
-  <img src="unreal.png" alt="unreal" width="40" height="40"/>  
-</a>  
-<a href="https://www.lua.org" target="_blank" rel="noreferrer">  
-  <img src="Lua.png" alt="lua" width="40" height="40"/>  
-</a>  
+---
 
-<br><br>
-<!--
-**playfull-dev/playfull-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ What I Work With
 
-Here are some ideas to get you started:
+<!-- Feel free to update these badges with your actual stack -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+> *Stack not accurate? Swap in your real tools — [shields.io](https://shields.io) has badges for everything.*
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔧 **Project One** | A short description of what it does and why it matters | `React` `Node` |
+| 🎨 **Project Two** | Another project — what problem does it solve? | `Python` `API` |
+| 📦 **Project Three** | Third project — keep it punchy | `TypeScript` |
+
+> *Replace these placeholders with your actual repos and link the project names.*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Playfull-Dev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jake's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Playfull-Dev&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160" />
+</p>
+
+---
+
+## 📬 Get In Touch
+
+- 💼 [LinkedIn](https://linkedin.com) — *add your link*
+- 🌐 [Portfolio](https://yoursite.com) — *add your link*
+- 📧 [Email me](mailto:you@email.com) — *add your email*
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Playfull-Dev&style=flat-square&color=lightgrey" alt="Profile views" />
+</p>
