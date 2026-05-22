@@ -17,7 +17,7 @@ I'm a developer who cares about the craft — clean code, thoughtful design, and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> *Stack not accurate? Swap in your real tools — [shields.io](https://shields.io) has badges for everything.*
+
 
 ---
 
