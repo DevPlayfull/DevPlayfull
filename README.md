@@ -1,4 +1,4 @@
-# Hey, I'm Jake 👋
+# Hey, I'm Jack 👋
 
 > Building things that work, look good, and maybe spark a little joy.
 
@@ -47,7 +47,7 @@ I'm a developer who cares about the craft — clean code, thoughtful design, and
 
 - 💼 [LinkedIn](https://linkedin.com) — *add your link*
 - 🌐 [Portfolio](https://yoursite.com) — *add your link*
-- 📧 [Email me](mailto:you@email.com) — *add your email*
+- 📧 [Email me](mailto:jack.kinnane@outlook.com) — *add your email*
 
 ---
 
