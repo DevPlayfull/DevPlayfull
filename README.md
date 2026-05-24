@@ -1,6 +1,6 @@
 # Hey, I'm Jack 👋
 
-> Building things that work, look good, and maybe spark a little joy.
+> Building things that work, look good, and maybe spark a little joy.goon
 
 I'm a developer who cares about the craft — clean code, thoughtful design, and shipping things that matter. Whether I'm deep in a side project or solving a hard problem at work, I bring the same energy to everything I build.
 
