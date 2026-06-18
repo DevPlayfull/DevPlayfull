@@ -1,4 +1,4 @@
-# Hey, I'm Jack 👋h
+# Hey, I'm Jack 👋
 
 > Building things that work, look good, and maybe spark a little joy.
 
