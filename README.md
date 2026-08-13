@@ -44,9 +44,8 @@ I'm a developer who cares about if it works or not — clean code, thoughtful de
 
 ## 📬 Get In Touch
 
-- 💼 [LinkedIn](https://linkedin.com) — *add your link*
-- 🌐 [Portfolio](https://yoursite.com) — *add your link*
-- 📧 [Email me](mailto:devplayfull@proton.me) — *add your email*
+- 🌐 [Portfolio](https://yoursite.com) — *soon*
+- 📧 [Email me](mailto:devplayfull@proton.me) 
 
 ---
 
