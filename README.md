@@ -46,7 +46,7 @@ I'm a developer who cares about if it works or not — clean code, thoughtful de
 
 - 💼 [LinkedIn](https://linkedin.com) — *add your link*
 - 🌐 [Portfolio](https://yoursite.com) — *add your link*
-- 📧 [Email me](mailto:jack.kinnane@outlook.com) — *add your email*
+- 📧 [Email me](mailto:devplayfull@proton.me) — *add your email*
 
 ---
 
