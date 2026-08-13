@@ -51,5 +51,5 @@ I'm a developer who cares about the craft — clean code, thoughtful design, and
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Playfull-Dev&style=flat-square&color=lightgrey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevPlayfull&style=flat-square&color=lightgrey" alt="Profile views" />
 </p>
