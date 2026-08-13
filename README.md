@@ -1,8 +1,8 @@
-# Hey, I'm Jack 👋
+# Hey, I'm Jake 👋
 
-> i'm a dumbass with alot of time
+> i'm a dumbass with a lot of time
 
-I'm a developer who cares about the craft — clean code, thoughtful design, and shipping things that matter. Whether I'm deep in a side project or solving a hard problem at work, I bring the same energy to everything I build.
+I'm a developer who cares about if it works or not — clean code, thoughtful design, and shipping things that matter. Whether I'm deep in a side project or solving a hard problem at work, I bring the same energy to everything I build. >aka i am living on monsters
 
 ---
 
