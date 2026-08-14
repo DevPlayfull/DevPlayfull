@@ -26,7 +26,7 @@ I'm a developer who cares about if it works or not — clean code, thoughtful de
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🔧 **my developer tools site/portfolio** | A short description of what it does and why it matters | `React` `Node` |
-| 🎨 **Project Two** | Another project — what problem does it solve? | `Python` `API` |
+| 🎨 **Python editor** | Another project — a Python editor that runs on every device so anyone can code! | `Python` `WebApp` |
 | 📦 **Project Three** | Third project — keep it punchy | `TypeScript` |
 
 > *Replace these placeholders with your actual repos and link the project names.*
@@ -50,5 +50,5 @@ I'm a developer who cares about if it works or not — clean code, thoughtful de
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPlayfull&style=flat-square&color=lightgrey" alt="Profile views" /> <img src="https://komarev.com/ghpvc/?username=Playfull_dev&style=flat-square&color=lightgrey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevPlayfull&style=flat-square&color=lightgrey" alt="Profile views" />
 </p>
