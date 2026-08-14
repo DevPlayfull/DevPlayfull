@@ -50,5 +50,5 @@ I'm a developer who cares about if it works or not — clean code, thoughtful de
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevPlayfull&style=flat-square&color=lightgrey" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevPlayfull&style=flat-square&color=lightgrey" alt="Profile views" /> <img src="https://komarev.com/ghpvc/?username=Playfull_dev&style=flat-square&color=lightgrey" alt="Profile views" />
 </p>
